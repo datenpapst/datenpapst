@@ -1,4 +1,4 @@
-# TanMan Plattform (PHP)
+# TenMan Plattform (PHP)
 
 Einfaches, sicheres Dashboard für Vermieter und Mieter auf Basis von PHP und MySQL.
 
