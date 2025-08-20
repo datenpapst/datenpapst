@@ -1,0 +1,5 @@
+uploads/*
+templates/*
+backups/*
+install.lock
+__pycache__/
